@@ -1,9 +1,9 @@
-# ABCD WEB-SERVICE
+# TMWEB-SERVICE
 This framework is designed for server side programming, this framework frees the programmer from writing long and complex java servlet code.
-With the help of this framework anyone who can write core java's programmer can do the server side programming,all he/she needs to do is apply simple annotations on services, ABCD Web-service will handle everything else for you.
+With the help of this framework anyone who can write core java's programmer can do the server side programming,all he/she needs to do is apply simple annotations on services, TMWeb-service will handle everything else for you.
 
 ## Prerequisites
-- ABCDWebservices.jar
+- TMWebservices.jar
 - gson-2.8.2.jar
 - itext-pdfa-5.5.3.jar
 - itext-xtra-5.5.3.jar
